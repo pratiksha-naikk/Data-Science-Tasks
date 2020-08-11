@@ -6,7 +6,7 @@ In this regression task we will predict the percentage of marks that a student i
 Data can be found at http://bit.ly/w-data
 ### Predicting Test Data :
 | Number | Hours | Actual Scores | Predicted Scores |
-| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
 |  5 | 3.5 | 30  | 36.85324 |
 | 11 | 7.7 | 85 | 76.02682 |
 | 16 | 8.9 | 95 | 87.21927 |
