@@ -8,5 +8,4 @@ Data can be found at http://bit.ly/w-data
 
 ### Vizualized Training and Test Data :
 
-
-What will be predicted score if a student study for 9.25 hrs in a day?
+### What will be predicted score if a student study for 9.25 hrs in a day?
