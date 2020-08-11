@@ -5,7 +5,10 @@ In this regression task we will predict the percentage of marks that a student i
 
 Data can be found at http://bit.ly/w-data
 ### Predicting Test Data :
-
+|   | Complaint Detection Accuracy | Categorization Accuracy |
+| ------------- | ------------- | ------------- |
+| Naive Bayes  | 87.34 %  | 85.65 %  |
+| SVM  | 89.08 %  | 87.17 %  |
 ### Vizualized Training and Test Data :
 
 ![alt text](https://github.com/adiimated/Data-Science-Tasks/blob/master/Task%20%23%202%20-%20To%20Explore%20Supervised%20Machine%20Learning/SLR_Trainingplot.png)
