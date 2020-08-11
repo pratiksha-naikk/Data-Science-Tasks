@@ -17,7 +17,7 @@ Data can be found at http://bit.ly/w-data
 
 <a href="url"><img src="https://github.com/adiimated/Data-Science-Tasks/blob/master/Task%20%23%202%20-%20To%20Explore%20Supervised%20Machine%20Learning/SLR_Testingplot.png" align="left" height="48" width="48" ></a>
 
-![alt text](https://github.com/adiimated/Data-Science-Tasks/blob/master/Task%20%23%202%20-%20To%20Explore%20Supervised%20Machine%20Learning/SLR_Testingplot.png)
+
 
 ### What will be predicted score if a student study for 9.25 hrs in a day?
 SCORE : 90.48373 
