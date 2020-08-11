@@ -17,6 +17,7 @@ regressor = lm(formula = Scores ~ Hours,
 
 # Predicting the Test set results
 y_pred = predict(regressor, newdata = test_set)
+y_pred
 
 # Visualising the Training set results
 library(ggplot2)
@@ -39,3 +40,8 @@ ggplot() +
   ggtitle('Scores vs Hours (Test set)') +
   xlab('Hours') +
   ylab('Scores')
+
+# What will be predicted score if a student study for 9.25 hrs in a day?
+predicted_score<-data.frame(Hours=c(9.25))
+pred<-predict(regressor,predicted_score)
+pred
