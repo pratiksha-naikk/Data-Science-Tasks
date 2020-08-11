@@ -5,10 +5,14 @@ In this regression task we will predict the percentage of marks that a student i
 
 Data can be found at http://bit.ly/w-data
 ### Predicting Test Data :
-|   | Complaint Detection Accuracy | Categorization Accuracy |
+| Number | Hours | Actual Scores | Predicted Scores |
 | ------------- | ------------- | ------------- |
-| Naive Bayes  | 87.34 %  | 85.65 %  |
-| SVM  | 89.08 %  | 87.17 %  |
+|  5 | 3.5 | 30  | 36.85324 |
+| 11 | 7.7 | 85 | 76.02682 |
+| 16 | 8.9 | 95 | 87.21927 |
+| 20 | 7.4 | 69 | 73.22871 |
+| 24 | 6.9 | 76 | 68.56519 |
+
 ### Vizualized Training and Test Data :
 
 ![alt text](https://github.com/adiimated/Data-Science-Tasks/blob/master/Task%20%23%202%20-%20To%20Explore%20Supervised%20Machine%20Learning/SLR_Trainingplot.png)
