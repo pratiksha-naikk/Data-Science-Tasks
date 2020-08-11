@@ -17,9 +17,9 @@ Data can be found at http://bit.ly/w-data
 SCORE : 90.48373 
 
 ### Vizualized Training and Test Data :
-
+<html>
 <a href="url"><img src="https://github.com/adiimated/Data-Science-Tasks/blob/master/Task%20%23%202%20-%20To%20Explore%20Supervised%20Machine%20Learning/SLR_Trainingplot.png" align="left"  width="650" ></a>
 
 
 <a href="url"><img src="https://github.com/adiimated/Data-Science-Tasks/blob/master/Task%20%23%202%20-%20To%20Explore%20Supervised%20Machine%20Learning/SLR_Testingplot.png" align="left"  width="650" ></a>
-
+</html>
