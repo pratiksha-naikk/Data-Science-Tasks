@@ -15,9 +15,9 @@ Data can be found at http://bit.ly/w-data
 
 ### Vizualized Training and Test Data :
 
-<a href="url"><img src="https://github.com/adiimated/Data-Science-Tasks/blob/master/Task%20%23%202%20-%20To%20Explore%20Supervised%20Machine%20Learning/SLR_Testingplot.png" align="left"  width="600" ></a>
+<a href="url"><img src="https://github.com/adiimated/Data-Science-Tasks/blob/master/Task%20%23%202%20-%20To%20Explore%20Supervised%20Machine%20Learning/SLR_Testingplot.png" align="left"  width="650" ></a>
 
-
+gshdvqiqkwodjwqior32iorj
 
 
 ### What will be predicted score if a student study for 9.25 hrs in a day?
