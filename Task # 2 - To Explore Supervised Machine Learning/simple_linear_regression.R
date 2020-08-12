@@ -15,6 +15,18 @@ test_set = subset(dataset, split == FALSE)
 regressor = lm(formula = Scores ~ Hours,
                data = training_set)
 
+# Predicting Scores based on Number of hours studied 
+readinteger <- function()
+{ 
+  n <- readline(prompt="Enter Number of Hours Studied : ")
+  no <- (as.integer(n))
+  predicted_score<-data.frame(Hours=c(no))
+  pred<-predict(regressor,predicted_score)
+  pred
+}
+
+print(readinteger())
+
 # Predicting the Test set results
 y_pred = predict(regressor, newdata = test_set)
 y_pred
@@ -41,7 +53,4 @@ ggplot() +
   xlab('Hours') +
   ylab('Scores')
 
-# What will be predicted score if a student study for 9.25 hrs in a day?
-predicted_score<-data.frame(Hours=c(9.25))
-pred<-predict(regressor,predicted_score)
-pred
+
