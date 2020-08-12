@@ -19,6 +19,7 @@ To predict the score based on the number of hours studied, we implement Simple L
 | 24 | 6.9 | 76 | 68.56519 |
 
 ### Vizualized Training and Test Data :
+To visualize the above data , we use ggplot2 package.
 <html>
 <a href="url"><img src="https://github.com/adiimated/Data-Science-Tasks/blob/master/Task%20%23%202%20-%20To%20Explore%20Supervised%20Machine%20Learning/SLR_Trainingplot.png" align="left"  width="650" ></a>
 
