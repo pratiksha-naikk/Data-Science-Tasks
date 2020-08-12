@@ -13,9 +13,6 @@ Data can be found at http://bit.ly/w-data
 | 20 | 7.4 | 69 | 73.22871 |
 | 24 | 6.9 | 76 | 68.56519 |
 
-### What will be predicted score if a student study for 9.25 hrs in a day?
-SCORE : 90.48373 
-
 ### Vizualized Training and Test Data :
 <html>
 <a href="url"><img src="https://github.com/adiimated/Data-Science-Tasks/blob/master/Task%20%23%202%20-%20To%20Explore%20Supervised%20Machine%20Learning/SLR_Trainingplot.png" align="left"  width="650" ></a>
