@@ -6,7 +6,7 @@ In this regression task we will predict the percentage of marks that a student i
 Data can be found at http://bit.ly/w-data
 
 ### Predicting Score based on the number of hours studied :
-
+To predict the score based on the number of hours studied, we implement Simple Linear Regression using the lm() function in R.
 
 
 ### Predicting Test Data :
