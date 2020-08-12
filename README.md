@@ -6,7 +6,7 @@ In this regression task we will predict the percentage of marks that a student i
 Data can be found at http://bit.ly/w-data
 
 ### Predicting Score based on the number of hours studied :
-To predict the score based on the number of hours studied, we implement Simple Linear Regression using the lm() function in R. After importing the dataset, we split it into training and test data. Then we fit the simple regression function to training set.
+To predict the score based on the number of hours studied, we implement Simple Linear Regression using the lm() function in R. After importing the dataset, we split it into training and test data. Then we fit the simple regression function to training set. In formula , we define the dependent variable and the independent variable and their correlation with each other. In our case, Hours Studied is the independent variable whereas Score is the dependent variable. 
 ```
 # Fitting Simple Linear Regression to the Training set
 regressor = lm(formula = Scores ~ Hours,
