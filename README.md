@@ -29,4 +29,6 @@ To visualize the above data , we use ggplot2 package.
 
 ![alt text](https://github.com/adiimated/Data-Science-Tasks/blob/master/Task%20%23%202%20-%20To%20Explore%20Supervised%20Machine%20Learning/SLR_Testingplot.png)
 
+
 ## Task # 3 - To Explore Unsupervised Machine Learning
+Task : From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
