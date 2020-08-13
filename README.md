@@ -25,8 +25,8 @@ This regressor is used to predict the percentage, after the user enters the hour
 
 ### Vizualized Training and Test Data :
 To visualize the above data , we use ggplot2 package.
-https://github.com/adiimated/Data-Science-Tasks/blob/master/Task%20%23%202%20-%20To%20Explore%20Supervised%20Machine%20Learning/SLR_Trainingplot.png
+! [alt text](https://github.com/adiimated/Data-Science-Tasks/blob/master/Task%20%23%202%20-%20To%20Explore%20Supervised%20Machine%20Learning/SLR_Trainingplot.png)
 
-https://github.com/adiimated/Data-Science-Tasks/blob/master/Task%20%23%202%20-%20To%20Explore%20Supervised%20Machine%20Learning/SLR_Testingplot.png
+! [alt text](https://github.com/adiimated/Data-Science-Tasks/blob/master/Task%20%23%202%20-%20To%20Explore%20Supervised%20Machine%20Learning/SLR_Testingplot.png)
 
 ## Task # 3 - To Explore Unsupervised Machine Learning
