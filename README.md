@@ -32,3 +32,7 @@ To visualize the above data , we use ggplot2 package.
 
 ## Task # 3 - To Explore Unsupervised Machine Learning
 Task : From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+
+### Optimum Number of Clusters
+### Analysis
+### Visualizing the Clusters
