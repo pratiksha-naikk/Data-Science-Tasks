@@ -36,6 +36,8 @@ Task : From the given ‘Iris’ dataset, predict the optimum number of clusters
 ### Optimum Number of Clusters
 To find the optimum number of clusters, we use the Elbow Method.The idea of the elbow method is to run k-means clustering on the dataset for a range of values of k and for each value of k calculate the sum of squared errors (SSE). Then, plot a line chart of the SSE for each value of k. If the line chart looks like an arm, then the "elbow" on the arm is the value of k that is the best.
 
-![alt text]()
+![alt text](https://github.com/adiimated/Data-Science-Tasks/blob/master/Task%20%23%203%20-%20To%20Explore%20Unsupervised%20Machine%20Learning/Elbow%20Method.png)
+
+In this case, we can see the "elbow" of the graph is 3. So the optimum number of clusters is 3.
 ### Analysis
 ### Visualizing the Clusters
