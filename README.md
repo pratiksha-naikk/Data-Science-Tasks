@@ -33,12 +33,12 @@ To visualize the above data , we use ggplot2 package.
 ## Task # 3 - To Explore Unsupervised Machine Learning
 Task : From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
-### Optimum Number of Clusters
+### Optimum Number of Clusters :
 To find the optimum number of clusters, we use the Elbow Method.The idea of the elbow method is to run k-means clustering on the dataset for a range of values of k and for each value of k calculate the sum of squared errors (SSE). Then, plot a line chart of the SSE for each value of k. If the line chart looks like an arm, then the "elbow" on the arm is the value of k that is the best.
 ![alt text](https://github.com/adiimated/Data-Science-Tasks/blob/master/Task%20%23%203%20-%20To%20Explore%20Unsupervised%20Machine%20Learning/Elbow%20Method.png)
 
 In this case, we can see the "elbow" of the graph is 3. So the optimum number of clusters is 3.
-### Analysis
+### Analysis :
 Lets look at some information about the clusters. That can be done by the following code :
 ```
 # Removing the unnecessary column and analysing the dataset
@@ -52,6 +52,5 @@ km$centers
 ```
 So we have 3 clusters of sizes 33, 21, 96.
 
-### Visualizing the Clusters
-
+### Visualizing the Clusters :
 ![alt text](https://github.com/adiimated/Data-Science-Tasks/blob/master/Task%20%23%203%20-%20To%20Explore%20Unsupervised%20Machine%20Learning/Clusters.png)
