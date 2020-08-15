@@ -54,3 +54,5 @@ So we have 3 clusters of sizes 33, 21, 96.
 
 ### Visualizing the Clusters :
 ![alt text](https://github.com/adiimated/Data-Science-Tasks/blob/master/Task%20%23%203%20-%20To%20Explore%20Unsupervised%20Machine%20Learning/Clusters.png)
+
+## Task # 4 - To Explore Decision Tree Algorithm
