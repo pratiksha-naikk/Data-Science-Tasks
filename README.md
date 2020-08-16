@@ -63,6 +63,7 @@ To visualize the above data , we use rpart.plot package.
 ![alt text](https://github.com/adiimated/Data-Science-Tasks/blob/master/Task%20%23%204%20-%20To%20Explore%20Decision%20Tree%20Algorithm/Decision%20Tree.png)
 
 ### Predicting the Species based on its features :
+Firstly, we take the features of the flower from the user i.e. Sepal length, Sepal width,Petal length and Petal width. Then we fit data into rpart function to predict the species.
 ```
 # model fitting
 fitTree<-rpart(Species~Sepal.Length+Sepal.Width+Petal.Length+Petal.Width,iris)
