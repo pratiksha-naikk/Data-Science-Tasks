@@ -63,3 +63,12 @@ To visualize the above data , we use rpart.plot package.
 ![alt text](https://github.com/adiimated/Data-Science-Tasks/blob/master/Task%20%23%204%20-%20To%20Explore%20Decision%20Tree%20Algorithm/Decision%20Tree.png)
 
 ### Predicting the Species based on its features :
+```
+# model fitting
+fitTree<-rpart(Species~Sepal.Length+Sepal.Width+Petal.Length+Petal.Width,iris)
+  
+#prediction-one row data
+newdata<-data.frame(Sepal.Length=n1,Sepal.Width=n2,Petal.Length=n3,Petal.Width=n4)
+newdata
+predict(fitTree, newdata,type="class")
+ ``` 
