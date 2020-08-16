@@ -59,5 +59,7 @@ So we have 3 clusters of sizes 33, 21, 96.
 For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 
 ### Visualization of Decision Tree :
+To visualize the above data , we use rpart.plot package.
+![alt text](https://github.com/adiimated/Data-Science-Tasks/blob/master/Task%20%23%204%20-%20To%20Explore%20Decision%20Tree%20Algorithm/Decision%20Tree.png)
 
 ### Predicting the Species based on its features :
