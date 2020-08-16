@@ -55,6 +55,9 @@ So we have 3 clusters of sizes 33, 21, 96.
 ### Visualizing the Clusters :
 ![alt text](https://github.com/adiimated/Data-Science-Tasks/blob/master/Task%20%23%203%20-%20To%20Explore%20Unsupervised%20Machine%20Learning/Clusters.png)
 
+What can we derive from this graph ? 
+
+
 ## Task # 4 - To Explore Decision Tree Algorithm
 For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 
