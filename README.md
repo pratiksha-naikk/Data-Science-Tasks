@@ -76,5 +76,5 @@ newdata<-data.frame(Sepal.Length=n1,Sepal.Width=n2,Petal.Length=n3,Petal.Width=n
 newdata
 predict(fitTree, newdata,type="class")
  ``` 
-### Credits
+## Credits
 This was created as a part of my internship with The Sparks Foundation.
